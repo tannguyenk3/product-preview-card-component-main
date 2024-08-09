@@ -34,10 +34,12 @@ body {
     padding: 20px
 }
 
-.text-properties span {
+.text-properties .text {
     font-family: "Montserrat", sans-serif;
     font-size: 11px;
     color: hsl(228, 12%, 48%);
+    text-transform: uppercase;
+    letter-spacing: 5px;
 }
 
 .text-properties h2 {
